@@ -1,4 +1,4 @@
-package creationalDesignPattern;
+package creationalDesignPattern.singleton;
 
 /*
     <li>Type of creational design pattern.</li>
